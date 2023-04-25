@@ -1,5 +1,7 @@
 //RealEstate.h, Group - C
 //git test
+
+//new branch
 #define MAX_STR 255
 #define NUM_AP 2
 #define NUM_TH 5
